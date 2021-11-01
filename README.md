@@ -1,6 +1,6 @@
 # elements-gogoli
 
-### [download link](https://github.com/amir0026a/elements-gogoli/archive/refs/heads/main.zip)
+### [download link](https://github.com/amirdecoder/elements-gogoli/archive/refs/heads/main.zip)
 
 <img src="https://s21.picofile.com/file/8443048426/Screenshot_29_.png">
 
@@ -8,8 +8,8 @@
  ### Stay in touch
  ___
  > Click on the name of the social network you want to contact me 👇
--  [Telegram](http://t.me/amir0026a)
--  [Instagram](http://instagram.com/amir0026_a)
+-  [Telegram](http://t.me/amirdecoder)
+-  [Instagram](http://instagram.com/amirdecoder)
 -  [Whatsapp](http://wa.me/message/D3VOL2BRUSPIE1)
 -  [Discord](http://discord.gg/T4JytppwT8)
 
